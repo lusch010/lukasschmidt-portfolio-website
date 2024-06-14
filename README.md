@@ -6,9 +6,9 @@ Enjoy.
 
 ## My Portfolio
 This is still in progress and some buttons still don't work.
-###Home
+### Home
 ![ReadMe](https://github.com/lusch010/lukasschmidt-portfolio-website/assets/29147460/5cefc459-cdf6-4902-bbd6-55dac361f12b)
-###Skills
+### Skills
 ![skills](https://github.com/lusch010/lukasschmidt-portfolio-website/assets/29147460/f95240cd-f576-4ac6-af93-7c26f9f68409)
 
 Nevertheless it was a fun experience till now.
