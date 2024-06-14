@@ -6,6 +6,6 @@ Enjoy.
 ![Alt text](http://full/path/to/img.jpg ](https://github.com/lusch010/lukasschmidt-portfolio-website/blob/main/MyWebPage/images/ReadMe.PNG)"Optional title")
 
 This is still in progress and some buttons still don't work.
-![Alt text](C:\Users\lukas\OneDrive\Desktop/skills.PNG)
+![skills](https://github.com/lusch010/lukasschmidt-portfolio-website/assets/29147460/f95240cd-f576-4ac6-af93-7c26f9f68409)
 
 Nevertheless it was a fun experience till now.
