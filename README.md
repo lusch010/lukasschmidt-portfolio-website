@@ -1,5 +1,6 @@
 # lukasschmidt-portfolio-website
 Hey, this is one of my first projects and the first project within web-engeneering. 
+I programmed with html, css and JavaScript.
 I made this projekt to improve my skills and this is also my portfolio.
 
 Enjoy.
